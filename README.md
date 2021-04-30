@@ -5,33 +5,15 @@ I provide my github to publish my works and personal projects.
 
 ### Skills
 
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/php.svg">
-</code>
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/c++.svg">
-</code>
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/sass.svg">
-</code>
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/sql.svg">
-</code>
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/shell.svg">
-</code>
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/git.svg">
-</code>
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/cloudflare.svg">
-</code>
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/debian.svg">
-</code>
-<code>
 <img height="20" src="https://altaryss.github.io/altaryss/asset/icon/kali.svg">
-</code>
 
 <br />
 <br />
