@@ -1,0 +1,278 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 551.68 428.38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: url(#New_Gradient_Swatch_2);
+      }
+
+      .cls-4 {
+        fill: url(#Dégradé_sans_nom_11);
+      }
+
+      .cls-5 {
+        fill: url(#Dégradé_sans_nom_11-2);
+      }
+
+      .cls-6 {
+        fill: url(#Dégradé_sans_nom_14);
+      }
+
+      .cls-7 {
+        fill: url(#Dégradé_sans_nom_11-3);
+      }
+
+      .cls-8 {
+        fill: url(#Dégradé_sans_nom_20);
+      }
+
+      .cls-9 {
+        fill: url(#Dégradé_sans_nom_11-4);
+      }
+
+      .cls-10 {
+        fill: url(#Dégradé_sans_nom_14-2);
+      }
+
+      .cls-11 {
+        fill: url(#Dégradé_sans_nom_11-5);
+      }
+
+      .cls-12 {
+        fill: url(#Dégradé_sans_nom_11-6);
+      }
+
+      .cls-13 {
+        fill: url(#Dégradé_sans_nom_11-7);
+      }
+
+      .cls-14 {
+        fill: url(#Dégradé_sans_nom_11-8);
+      }
+
+      .cls-15 {
+        fill: url(#Dégradé_sans_nom_14-3);
+      }
+
+      .cls-16 {
+        fill: url(#Dégradé_sans_nom_14-4);
+      }
+
+      .cls-17 {
+        fill: url(#Dégradé_sans_nom_11-9);
+      }
+
+      .cls-18 {
+        fill: url(#Dégradé_sans_nom_14-5);
+      }
+
+      .cls-19 {
+        fill: url(#Dégradé_sans_nom_14-6);
+      }
+
+      .cls-20 {
+        fill: url(#Dégradé_sans_nom_14-7);
+      }
+
+      .cls-21 {
+        fill: url(#Dégradé_sans_nom_14-8);
+      }
+
+      .cls-22 {
+        fill: url(#Dégradé_sans_nom_14-9);
+      }
+
+      .cls-23 {
+        fill: url(#Dégradé_sans_nom_18);
+      }
+
+      .cls-24 {
+        fill: url(#Dégradé_sans_nom_11-10);
+      }
+
+      .cls-25 {
+        fill: url(#Dégradé_sans_nom_14-10);
+      }
+
+      .cls-26 {
+        fill: url(#Dégradé_sans_nom_14-11);
+      }
+
+      .cls-27 {
+        fill: url(#Dégradé_sans_nom_14-12);
+      }
+
+      .cls-28 {
+        fill: url(#Dégradé_sans_nom_11-11);
+      }
+
+      .cls-29 {
+        fill: url(#Dégradé_sans_nom_14-13);
+      }
+
+      .cls-30 {
+        fill: url(#Dégradé_sans_nom_14-14);
+      }
+
+      .cls-31 {
+        fill: url(#Dégradé_sans_nom_11-12);
+      }
+
+      .cls-32 {
+        fill: url(#Dégradé_sans_nom_14-15);
+      }
+
+      .cls-33 {
+        fill: url(#Dégradé_sans_nom_11-13);
+      }
+
+      .cls-34 {
+        fill: url(#Dégradé_sans_nom_14-16);
+      }
+
+      .cls-35 {
+        fill: url(#Dégradé_sans_nom_18-2);
+      }
+
+      .cls-36 {
+        fill: url(#Dégradé_sans_nom_9);
+      }
+
+      .cls-37 {
+        fill: url(#Dégradé_sans_nom_6);
+      }
+
+      .cls-38 {
+        fill: url(#Dégradé_sans_nom_18-3);
+      }
+
+      .cls-39 {
+        fill: url(#Dégradé_sans_nom_18-4);
+      }
+
+      .cls-40 {
+        fill: #0093ff;
+      }
+
+      .cls-41 {
+        fill: #7e7e7e;
+      }
+    </style>
+    <clipPath id="clip-path" transform="translate(61.71 -48.76)">
+      <polyline class="cls-1" points="129.99 51.57 244.56 166.27 244.56 462.42 150.1 191.81 10.77 265.37 10.77 172.16 129.99 51.57"/>
+    </clipPath>
+    <linearGradient id="New_Gradient_Swatch_2" data-name="New Gradient Swatch 2" x1="34.32" y1="17.07" x2="452.01" y2="474.81" gradientUnits="userSpaceOnUse">
+      <stop offset="0.17" stop-color="#d69f24"/>
+      <stop offset="0.92" stop-color="#ffea73"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_11" data-name="Dégradé sans nom 11" x1="362.48" y1="417.26" x2="428.38" y2="417.26" gradientUnits="userSpaceOnUse">
+      <stop offset="0.17" stop-color="#0093ff"/>
+      <stop offset="0.92" stop-color="#00cfff"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_11-2" x1="362.48" y1="356.16" x2="428.38" y2="356.16" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_14" data-name="Dégradé sans nom 14" x1="299.65" y1="335.31" x2="428.38" y2="335.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0.08" stop-color="#00cfff"/>
+      <stop offset="1" stop-color="#0093ff"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_11-3" x1="299.65" y1="263.34" x2="428.38" y2="263.34" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_20" data-name="Dégradé sans nom 20" x1="264.24" y1="212.51" x2="428.38" y2="212.51" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_11-4" x1="187.7" y1="177.38" x2="428.38" y2="177.38" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_14-2" x1="241.96" y1="140.26" x2="428.38" y2="140.26" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_11-5" x1="399.04" y1="205.08" x2="428.38" y2="205.08" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_11-6" x1="346.31" y1="137.69" x2="428.38" y2="137.69" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_11-7" x1="241.96" y1="56.58" x2="428.38" y2="56.58" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_11-8" x1="337.92" y1="8.87" x2="428.38" y2="8.87" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_14-3" x1="241.96" y1="19.44" x2="428.38" y2="19.44" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-4" x1="352.2" y1="417.26" x2="417.88" y2="417.26" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_11-9" x1="235.68" y1="417.26" x2="362.48" y2="417.26" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_14-5" x1="257.39" y1="360.44" x2="362.48" y2="360.44" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-6" x1="257.39" y1="278.19" x2="299.65" y2="278.19" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-7" x1="187.7" y1="75.71" x2="276.23" y2="75.71" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-8" x1="190.56" y1="386.41" x2="362.48" y2="386.41" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-9" x1="96.89" y1="259.06" x2="299.65" y2="259.06" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_18" data-name="Dégradé sans nom 18" x1="241.96" y1="19.44" x2="324.21" y2="19.44" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_11-10" x1="184.28" y1="56.28" x2="241.96" y2="56.28" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_14-10" x1="86.61" y1="128.12" x2="264.24" y2="128.12" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-11" x1="184.28" y1="19.44" x2="264.24" y2="19.44" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-12" x1="132.87" y1="56.28" x2="187.7" y2="56.28" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_11-11" x1="86.61" y1="56.28" x2="187.7" y2="56.28" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_14-13" x1="96.89" y1="324.46" x2="257.39" y2="324.46" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_14-14" x1="66.61" y1="396.7" x2="221.4" y2="396.7" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_11-12" x1="96.89" y1="247.64" x2="167.14" y2="247.64" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_14-15" x1="34.06" y1="356.14" x2="190.56" y2="356.14" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_11-13" x1="34.06" y1="268.34" x2="96.89" y2="268.34" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_14-16" x1="0" y1="59.13" x2="96.89" y2="59.13" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_18-2" data-name="Dégradé sans nom 18" x1="0" y1="45.42" x2="90.03" y2="45.42" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_9" data-name="Dégradé sans nom 9" x1="0" y1="128.12" x2="96.89" y2="128.12" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_6" data-name="Dégradé sans nom 6" x1="0" y1="245.49" x2="96.89" y2="245.49" xlink:href="#Dégradé_sans_nom_14"/>
+    <linearGradient id="Dégradé_sans_nom_18-3" data-name="Dégradé sans nom 18" x1="15.78" y1="392.27" x2="66.61" y2="392.27" xlink:href="#Dégradé_sans_nom_11"/>
+    <linearGradient id="Dégradé_sans_nom_18-4" data-name="Dégradé sans nom 18" x1="0" y1="370.42" x2="34.06" y2="370.42" xlink:href="#Dégradé_sans_nom_11"/>
+  </defs>
+  <g id="Calque_7" data-name="Calque 7">
+    <g id="Calque_9" data-name="Calque 9">
+      <g class="cls-2">
+        <g>
+          <rect class="cls-3" width="428.38" height="428.38"/>
+          <g>
+            <polygon class="cls-4" points="362.48 406.14 417.88 428.38 428.38 428.38 428.38 412.99 362.48 406.14"/>
+            <polygon class="cls-5" points="362.48 406.14 428.38 299.33 428.38 412.99 362.48 406.14"/>
+            <polygon class="cls-6" points="362.48 406.14 299.65 314.75 428.38 264.49 428.38 299.33 362.48 406.14"/>
+            <polygon class="cls-7" points="299.65 314.75 299.65 211.94 428.38 251.35 428.38 264.49 299.65 314.75"/>
+            <polygon class="cls-8" points="428.38 251.35 299.65 211.94 264.24 173.67 428.38 247.35 428.38 251.35"/>
+            <polygon class="cls-9" points="428.38 247.35 428.38 241.64 276.23 107.41 187.7 112.55 264.24 173.67 428.38 247.35"/>
+            <polygon class="cls-10" points="428.38 241.64 428.38 223.93 399.04 186.24 346.31 85.71 241.96 38.87 276.23 107.41 428.38 241.64"/>
+            <polygon class="cls-11" points="399.04 186.24 428.38 189.66 428.38 223.93 399.04 186.24"/>
+            <polygon class="cls-12" points="346.31 85.71 428.38 85.71 428.38 189.66 399.04 186.24 346.31 85.71"/>
+            <polygon class="cls-13" points="241.96 38.87 428.38 27.45 428.38 85.71 346.31 85.71 241.96 38.87"/>
+            <polygon class="cls-14" points="337.92 0 428.38 0 428.38 17.74 337.92 0"/>
+            <polygon class="cls-15" points="241.96 38.87 324.21 0 337.92 0 428.38 17.74 428.38 27.45 241.96 38.87"/>
+            <polygon class="cls-16" points="362.48 406.14 352.2 428.38 417.88 428.38 362.48 406.14"/>
+            <polygon class="cls-17" points="235.68 428.38 362.48 406.14 352.2 428.38 235.68 428.38"/>
+            <polygon class="cls-18" points="299.65 314.75 257.39 344.45 362.48 406.14 299.65 314.75"/>
+            <polygon class="cls-19" points="299.65 211.94 257.39 344.45 299.65 314.75 299.65 211.94"/>
+            <polygon class="cls-20" points="187.7 112.55 241.96 38.87 276.23 107.41 187.7 112.55"/>
+            <polygon class="cls-21" points="235.68 428.38 221.4 428.38 190.56 365.01 257.39 344.45 362.48 406.14 235.68 428.38"/>
+            <polygon class="cls-22" points="299.65 211.94 264.24 173.67 96.89 180.52 167.14 314.75 257.39 344.45 299.65 211.94"/>
+            <polygon class="cls-23" points="241.96 38.87 264.24 0 324.21 0 241.96 38.87"/>
+            <polygon class="cls-24" points="187.7 112.55 184.28 0 241.96 38.87 187.7 112.55"/>
+            <polygon class="cls-25" points="96.89 180.52 86.61 75.71 187.7 112.55 264.24 173.67 96.89 180.52"/>
+            <polygon class="cls-26" points="241.96 38.87 264.24 0 184.28 0 241.96 38.87"/>
+            <polygon class="cls-27" points="187.7 112.55 132.87 0 184.28 0 187.7 112.55"/>
+            <polygon class="cls-28" points="86.61 75.71 96.89 0 132.87 0 187.7 112.55 86.61 75.71"/>
+            <polygon class="cls-29" points="190.56 365.01 96.89 283.91 167.14 314.75 257.39 344.45 190.56 365.01"/>
+            <polygon class="cls-30" points="66.61 428.38 190.56 365.01 221.4 428.38 66.61 428.38"/>
+            <polygon class="cls-31" points="96.89 283.91 96.89 180.52 167.14 314.75 96.89 283.91"/>
+            <polygon class="cls-32" points="66.61 428.38 34.06 356.16 96.89 283.91 190.56 365.01 66.61 428.38"/>
+            <polygon class="cls-33" points="96.89 180.52 34.06 356.16 96.89 283.91 96.89 180.52"/>
+            <polygon class="cls-34" points="86.61 75.71 0 118.27 0 90.85 90.03 0 96.89 0 86.61 75.71"/>
+            <polygon class="cls-35" points="0 0 90.03 0 0 90.85 0 0"/>
+            <polygon class="cls-36" points="0 118.27 0 134.83 96.89 180.52 86.61 75.71 0 118.27"/>
+            <polygon class="cls-37" points="34.06 356.16 0 312.46 0 134.83 96.89 180.52 34.06 356.16"/>
+            <polygon class="cls-38" points="15.78 428.38 66.61 428.38 34.06 356.16 15.78 428.38"/>
+            <polygon class="cls-39" points="0 312.46 0 428.38 15.78 428.38 34.06 356.16 0 312.46"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <polygon id="hautg" class="cls-40" points="191.7 2.81 72.48 123.4 72.48 216.61 211.81 143.05 306.27 413.66 306.27 117.51 191.7 2.81"/>
+  </g>
+  <g id="Calque_6" data-name="Calque 6">
+    <polygon id="hautd" class="cls-41" points="432.46 2.83 551.68 123.41 551.68 216.63 412.34 143.07 317.89 413.67 317.89 117.53 432.46 2.83"/>
+  </g>
+  <g id="Calque_5" data-name="Calque 5">
+    <polygon id="basg" class="cls-40" points="186.5 202.78 108.17 245.39 256.78 419.34 276.36 405.51 186.5 202.78"/>
+  </g>
+  <g id="Calque_4" data-name="Calque 4">
+    <polygon id="basd" class="cls-41" points="437.92 202.78 516.25 245.39 367.64 419.34 348.06 405.51 437.92 202.78"/>
+  </g>
+  <g id="Calque_3" data-name="Calque 3">
+    <polygon id="haut" class="cls-41" points="214.19 0.01 312.08 99.11 411.09 0 214.19 0.01"/>
+  </g>
+</svg>

@@ -1,0 +1,150 @@
+/*!
+* UraniumCommunity.com Boutique
+* Copyright 2020-2021 - Uranium Community.
+*/
+/*! main.css v1.0.0 | MIT License | github.com/Uranium-Community */
+:root {
+  --blue: #0093ff;
+  --grey: #7e7e7e;
+  --white: #ffffff;
+  --bgMain: #1c1f29;
+  --bg: #2f323e;
+  --onHover: #3a3e4d;
+  --txtMain: #ffffff;
+  --txtSecond: #71768a;
+  --txtThird: #bdc3d9;
+  --font: "Averta", sans-serif;
+  --logo: url("/asset/img/uranium.svg");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: var(--font);
+  margin: 0;
+  padding: 0;
+  background-color: var(--bgMain);
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  background: transparent;
+}
+
+#header {
+  position: relative;
+}
+
+#header::before {
+  content: "";
+  background: var(--fade) no-repeat top center/1700px auto;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#header-main {
+  display: flex;
+  max-width: 100%;
+  padding: 0 0.55rem;
+  flex-direction: column;
+}
+
+#header-main .header-title {
+  display: flex;
+  max-width: 100%;
+  margin: 1rem auto;
+}
+
+.logo-img {
+  display: flex;
+  height: 50px;
+  width: 50px;
+  z-index: 5;
+  position: relative;
+  background: url("/asset/img/uranium.png") no-repeat top center/100% auto;
+}
+
+#header-main .header-title .head-txt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 0.4rem;
+  margin-top: 0.2rem;
+  line-height: 0.9rem;
+}
+
+.head-txt > h3,
+.head-txt > h5 {
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.head-txt > h3 {
+  font-size: 1.3rem;
+  color: var(--blue);
+}
+
+.head-txt > h5 {
+  font-size: 0.68rem;
+  color: var(--white);
+}
+
+.head-txt .count {
+  color: var(--txtSecond);
+  font-size: 0.55rem;
+}
+
+#header-main .header-navbar {
+  margin: 0;
+}
+
+#header-main .header-navbar .selection {
+  display: flex;
+  flex-direction: row;
+  height: 45px;
+}
+
+.selection .btn {
+  display: flex;
+  flex: 1 1 50%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: unset;
+  border-radius: 3px;
+  height: auto;
+  transition: all 0.25s ease 0s;
+}
+
+.boutique {
+  background-color: var(--blue);
+  margin-right: 0.275rem;
+}
+
+.user {
+  background-color: var(--bg);
+  margin-left: 0.275rem;
+}
+
+.primary {
+  color: var(--white);
+  font-size: 0.9rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  line-height: 0.75rem;
+}
+
+.secondary {
+  color: var(--white);
+  font-size: 0.5rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 0.5rem;
+}
