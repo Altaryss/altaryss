@@ -20,4 +20,4 @@ I provide my github to publish my works and personal projects.
 <br />
 <br />
 
-![Altaryss GitHub stats](https://github-readme-stats.vercel.app/api?username=Altaryss&show_icons=true&theme=midnight-purple)
+![Altaryss GitHub stats](https://github-readme-stats.vercel.app/api?username=altaryss&show_icons=true&theme=radical)
